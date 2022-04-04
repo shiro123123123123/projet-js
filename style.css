@@ -1,0 +1,48 @@
+.title{
+    font-size: 25px;
+    font-style: italic;
+    font-family: sans-serif;
+    color: #622e0c;
+  }
+  #case{
+      height: 37px;
+      width: 200px;
+      border: 2px solid #5e12da;
+      border-radius: 10px;
+  }
+
+  .number{
+      height: 50px;
+      width: 50px;
+      font-size: 25px;
+      color: rgb(15, 14, 14);
+      border: 2px solid #0a5c0a;
+      border-radius: 10px;
+      background-color: #e3e9e3;
+  }
+  .number:hover {
+    background-color: #020502;
+  }
+
+  .operator{
+      height: 50px;
+      width: 50px;
+      font-size: 25px;
+      color: rgb(196, 22, 22);
+      border: 2px solid #5FAE5F;
+      border-radius: 10px;
+      background-color: #f2f7f1;
+  }
+  .operator:hover{
+      background-color: #0C620C;
+  }
+  .cal{
+      background-image:url(bing.jpg);
+      height: 200px;
+      width: 400px;
+      justify-content: center;
+      display: flex;
+      align-items: center;
+      font-size: 100px;
+      
+  }
